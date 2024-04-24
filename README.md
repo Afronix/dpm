@@ -17,7 +17,7 @@ git clone https://github.com/Afronix/dpm/
 ```
 2. **Altere as permissões**
 ```shell
-sudo chmod x+ -R dpm
+sudo chmod +x -R dpm
 ```
 3. **Execute o Script de Instalação:**
 ```shell
